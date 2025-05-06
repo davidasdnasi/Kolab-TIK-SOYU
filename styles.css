@@ -11,7 +11,7 @@ body {
     background-color: rgb(101, 142, 161,0.5);
     position: fixed;
     z-index: 1;
-    padding: 5px 20px;
+    padding: 5px 10px;
     justify-content: space-between;
     align-items: center;
   }
